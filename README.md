@@ -1,4 +1,4 @@
-# NovaTeleport V1.0.1
+# NovaTeleport V1.0.2
 
 ![NovaTeleport](https://github.com/user-attachments/assets/89ce8577-6b33-45b7-995f-8501ab337e34)
 
