@@ -1,7 +1,6 @@
 # NovaTeleport V1.0.0
 
-![NovaTeleport](https://github.com/user-attachments/assets/e39a3ffb-0c9c-4b09-a64d-32dd32eeede7
-)
+![NovaTeleport](https://github.com/user-attachments/assets/e39a3ffb-0c9c-4b09-a64d-32dd32eeede7)
 
 **Copyright © 2025 Artek0000**  
 Tous droits réservés – Appropriation et modification interdites
